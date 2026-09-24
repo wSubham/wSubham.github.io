@@ -1,4 +1,4 @@
-# Subham Das — Personal Portfolio
+# Subham Das - Personal Portfolio
 
 <p align="center">
   <img src="subham.jpeg" alt="Subham Das" width="150" height="150" style="border-radius: 50%;">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wSubham.github.io/">🌐 Portfolio</a> •
+  🌐<a href="https://wSubham.github.io/"> Portfolio</a> •
   <a href="https://github.com/wSubham">GitHub</a>
 </p>
 
@@ -50,18 +50,19 @@ The website is hosted using **GitHub Pages** and is automatically deployed from 
 
 **Techno Main Salt Lake**
 2022 – 2026
-**CGPA:** 7.6
+**CGPA:** 7.51
 
 ### Higher Secondary Education
 
-**Suri Public & Chandragati Mustafi Memorial High School**
-WBCHSE — 2021
-**Percentage:** 90.60%
+**Bolpur High School**
+| 2022 |
+**Percentage:** 91.4%
 
 ### Secondary Education
 
-**WBBSE — 2019**
-**Percentage:** 86%
+**Bhalkuti High School**
+| 2020 |
+**Percentage:** 83.4%
 
 ---
 
@@ -86,8 +87,8 @@ WBCHSE — 2021
 
 ### Web Development
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 
 ### Database
@@ -158,13 +159,13 @@ A computer vision-based system designed to analyze crowd activity and visualize 
 
 ---
 
-### 3. Indian Sign Language to Text & Speech — FingerTalk
+### 3. Indian Sign Language to Text & Speech - FingerTalk
 
 An AI-based system designed to recognize Indian Sign Language gestures and translate them into text and speech.
 
 **Technologies:**
 
-`Python` `TensorFlow` `Keras` `VGG16` `OpenCV` `MediaPipe`
+`Python` `TensorFlow` `Keras` `OpenCV` `MediaPipe`
 
 **Key Features:**
 
@@ -178,7 +179,7 @@ An AI-based system designed to recognize Indian Sign Language gestures and trans
 
 ---
 
-### 4. TuneFlix — AI Movie & Music Recommendation System
+### 4. TuneFlix - AI Movie & Music Recommendation System
 
 An AI-powered recommendation system designed to provide personalized movie and music recommendations.
 
@@ -218,43 +219,6 @@ A simple Android application implementing the classic Tic Tac Toe game with an i
 **Technologies:**
 
 `Java` `Android Studio` `XML`
-
----
-
-## 🛠️ Portfolio Technologies
-
-The portfolio website itself is built using lightweight web technologies:
-
-| Technology   | Purpose                       |
-| ------------ | ----------------------------- |
-| HTML5        | Website structure             |
-| CSS3         | Styling and responsive design |
-| JavaScript   | Interactions and animations   |
-| Git          | Version control               |
-| GitHub       | Source code hosting           |
-| GitHub Pages | Website deployment            |
-
----
-
-## ✨ Portfolio Features
-
-The portfolio website includes:
-
-* Responsive navigation
-* Hero section
-* Personal introduction
-* About section
-* Technical skills section
-* Project showcase
-* Education section
-* Resume access
-* Contact section
-* Smooth scrolling
-* Scroll-based animations
-* Mobile-friendly layout
-* Responsive design
-* Favicon
-* GitHub Pages deployment
 
 ---
 
@@ -306,52 +270,6 @@ Alternatively, you can use the **Live Server** extension in Visual Studio Code f
 
 ---
 
-## 🔄 Updating the Portfolio
-
-After making changes to the website:
-
-```bash
-git add .
-git commit -m "Update portfolio"
-git push origin main
-```
-
-GitHub Pages will automatically deploy the updated version.
-
----
-
-## 🌍 GitHub Pages Deployment
-
-This website is deployed using GitHub Pages.
-
-### Repository
-
-```text
-wSubham.github.io
-```
-
-### Deployment Configuration
-
-```text
-Settings
-   ↓
-Pages
-   ↓
-Deploy from a branch
-   ↓
-Branch: main
-   ↓
-Folder: / (root)
-```
-
-### Live URL
-
-```text
-https://wSubham.github.io/
-```
-
----
-
 ## 🎯 Areas of Interest
 
 I am particularly interested in building practical applications involving:
@@ -391,7 +309,6 @@ Planned improvements for the portfolio include:
 
 * Adding more projects
 * Improving accessibility
-* Further optimizing mobile responsiveness
 * Adding project demonstrations
 * Improving website performance
 * Adding more interactive components
